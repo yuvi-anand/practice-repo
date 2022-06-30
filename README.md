@@ -1,0 +1,3 @@
+Myfucntion takes a folder...
+=======
+myfunction in main will take a folder of images as an argument, scan each image using yolo, and adding the results into a newly created textfile
